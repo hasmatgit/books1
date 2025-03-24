@@ -1,0 +1,90 @@
+[
+    { 
+        "id": 101,
+        "name": "Adventure Tales",
+        "title": "Exciting stories of adventure and mystery.",
+        "price": 199,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 102,
+        "name": "Science Wonders",
+        "title": "Explore the wonders of science and technology.",
+        "price": 249,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 103,
+        "name": "History Unfolded",
+        "title": "A journey through time with historical insights.",
+        "price": 150,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 104,
+        "name": "Fantasy World",
+        "title": "Magical realms and mystical creatures await.",
+        "price": 299,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 105,
+        "name": "Tech Trends",
+        "title": "Stay updated with the latest in technology.",
+        "price": 199,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 106,
+        "name": "Health & Wellness",
+        "title": "Tips and tricks for a healthier lifestyle.",
+        "price": 175,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 107,
+        "name": "Creative Writing",
+        "title": "Enhance your storytelling and writing skills.",
+        "price": 225,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 108,
+        "name": "Space Explorers",
+        "title": "Discover the secrets of the universe.",
+        "price": 275,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 109,
+        "name": "Business & Finance",
+        "title": "Master financial strategies and business skills.",
+        "price": 350,
+        "category": "business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 110,
+        "name": "Art & Culture",
+        "title": "Exploring art, music, and cultural heritage.",
+        "price": 200,
+        "category": "entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    },
+    {
+        "id": 111,
+        "name": "Self-Improvement",
+        "title": "Guides to better habits and personal growth.",
+        "price": 180,
+        "category": "entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1421208085.1742335981&semt=ais_hybrid"
+    }
+]
