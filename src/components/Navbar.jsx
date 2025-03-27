@@ -3,7 +3,7 @@ import { useState } from "react";
 import Login from "./Login";
 // import Logout from "./Logout";
 // import { useAuth } from "../context/AuthProvider";
-import Contact from './Contact';
+// import Contact from './Contact';
 
 function Navbar() {
 
@@ -81,7 +81,7 @@ function Navbar() {
               {/* this hidden checkbox controls the state */}
               <input type="checkbox" className="theme-controller" value="synthwave" />
 
-              {/* sun icon */}
+              {/* sun icon */} 
               <svg
                 className="swap-off h-6 w-6 fill-current"
                 xmlns="http://www.w3.org/2000/svg"

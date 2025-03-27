@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import { useForm } from "react-hook-form"
 
-
+ 
 function Login() {
   const {
     register,
@@ -17,7 +17,9 @@ function Login() {
         <div className="modal-box">
           <form onSubmit={handleSubmit(onSubmit)} method="dialog">
             {/* if there is a button in form, it will close the modal */}
-            <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
+            <Link to="/" className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+              ✕
+            </Link>
           <h3 className="font-bold text-lg">Login</h3>
           {/* Email */}
           <div className='mt-4 space-y-2'>
@@ -37,7 +39,7 @@ function Login() {
           <div className='mt-4 space-y-2'>
             <span>Password</span>
             <br />
-            <input type="text"
+            <input type="password"
             placeholder='Enter your password'
             className='w-80 px-3 py-1 border rounded-md outline-none'
             {...register("password", { required: true })}
